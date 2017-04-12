@@ -1,2 +1,4 @@
----
 lucky-word: china-5
+
+server:
+  port: 8001
